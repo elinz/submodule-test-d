@@ -1,0 +1,4 @@
+[submodule "submodule-test-e"]
+	path = submodule-test-e
+	url = https://github.com/elinz/submodule-test-e.git
+	branch = dev
